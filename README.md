@@ -43,4 +43,5 @@ The accuracy of the classifcation of the images is about 69%
 
 ## Acknowledgments
 -> Thanks to the creators of the CIFAR-10 dataset for providing a standard benchmark for image classification.
+
 -> Thanks to TensorFlow and the Keras team for their fantastic deep learning library.
